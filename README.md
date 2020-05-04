@@ -1,4 +1,4 @@
 # CodingBlocks
 
-### This is the first project. Mostly trial and error
+A repository of codes implemented as described on Algo++ hosted by codingblocks.com
 
