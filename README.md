@@ -1,4 +1,4 @@
 # CodingBlocks
 
-# This is the first project. Mostly trial and error
+### This is the first project. Mostly trial and error
 
